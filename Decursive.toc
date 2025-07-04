@@ -11,5 +11,6 @@ localization.fr.lua
 localization.de.lua
 localization.tw.lua
 localization.ru.lua
+localization.es.lua
 Decursive.lua
 Decursive.xml
