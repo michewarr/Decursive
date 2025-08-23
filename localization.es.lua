@@ -82,7 +82,7 @@ if ( GetLocale() == "esES" ) then
   DCR_SPELL_CURE_DISEASE        = 'Curar Enfermedad';
   DCR_SPELL_ABOLISH_DISEASE     = 'Abolir Enfermedad';
   DCR_SPELL_PURIFY              = 'Purificar';
-  DCR_SPELL_CLEANSE             = 'Purificar';
+  DCR_SPELL_CLEANSE             = 'Purgación';
   DCR_SPELL_DISPELL_MAGIC       = 'Disipar Magia';
   DCR_SPELL_CURE_POISON         = 'Curar Veneno';
   DCR_SPELL_ABOLISH_POISON      = 'Abolir veneno';
