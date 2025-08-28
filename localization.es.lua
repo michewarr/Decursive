@@ -22,7 +22,7 @@
 
 -------------------------------------------------------------------------------
 -- Spanish localization {{{
--- Revised by Michelada 07.03.25 (From Release 1.10.1)
+-- Revised by Michelada 08.28.25 (From Release 1.10.1)
 -------------------------------------------------------------------------------
 if ( GetLocale() == "esES" ) then
   --start added in Rc4
@@ -74,20 +74,20 @@ if ( GetLocale() == "esES" ) then
   DCR_LOC_AF_TYPE [DCR_CHARMED] = 'Control mental';
   
 
-  DCR_PET_FELHUNTER = "Felhunter";
+  DCR_PET_FELHUNTER = "Cazador Vil";
   DCR_PET_DOOMGUARD = "Doomguard";
   DCR_PET_FEL_CAST  = "Devorar Magia";
   DCR_PET_DOOM_CAST = "Disipar Magia"; -- Pendiente validar
 
   DCR_SPELL_CURE_DISEASE        = 'Curar Enfermedad';
-  DCR_SPELL_ABOLISH_DISEASE     = 'Abolir Enfermedad';
+  DCR_SPELL_ABOLISH_DISEASE     = 'Suprimir Enfermedad';
   DCR_SPELL_PURIFY              = 'Purificar';
   DCR_SPELL_CLEANSE             = 'Purgación';
   DCR_SPELL_DISPELL_MAGIC       = 'Disipar Magia';
   DCR_SPELL_CURE_POISON         = 'Curar Veneno';
-  DCR_SPELL_ABOLISH_POISON      = 'Abolir veneno';
-  DCR_SPELL_REMOVE_LESSER_CURSE = 'Eliminar Maldición Menor';
-  DCR_SPELL_REMOVE_CURSE        = 'Eliminar Maldición';
+  DCR_SPELL_ABOLISH_POISON      = 'Suprimir Veneno';
+  DCR_SPELL_REMOVE_LESSER_CURSE = 'Deshacer Maldición Inferior';
+  DCR_SPELL_REMOVE_CURSE        = 'Deshacer Maldición';
   DCR_SPELL_PURGE               = 'Purgar';
   DCR_SPELL_RANK_1              = 'Rango 1';
   DCR_SPELL_RANK_2              = 'Rango 2';
